@@ -4,7 +4,7 @@ jobs:
   build:
 
     runs-on: windows-latest
-    timeout-minutes: 300
+    timeout-minutes: 720
 
     steps:
     - name: Download
